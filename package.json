@@ -1,0 +1,21 @@
+{
+  "name": "javascript_learning_hitesh",
+  "version": "1.0.0",
+  "description": "Repo to save code while learning Javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joinlooks/javascript_learning_hitesh.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/joinlooks/javascript_learning_hitesh/issues"
+  },
+  "homepage": "https://github.com/joinlooks/javascript_learning_hitesh#readme"
+}
