@@ -1,7 +1,7 @@
 // const obj = {};
 // const another = new Object();
 
-import { log } from "../utility.js";
+import { log } from "../utility.mjs";
 
 // globalThis.name = "Shriman Lakshya";
 
@@ -46,24 +46,24 @@ import { log } from "../utility.js";
 //     },
 // };
 
-const user = new Object({
-    id: 23423,
-    name: {
-        firstName: "Lakshya",
-        lastName: "Sharma",
-    },
-});
+// const user = new Object({
+//     id: 23423,
+//     name: {
+//         firstName: "Lakshya",
+//         lastName: "Sharma",
+//     },
+// });
 
 // console.log(user.hasOwnProperty("firstName"));
 // console.log(user.name.hasOwnProperty("firstName"));
 
-const anotherUser = {
-    id: 3245,
-    name: "Lakshya Kaushal Sharma",
-};
+// const anotherUser = {
+//     id: 3245,
+//     name: "Lakshya Kaushal Sharma",
+// };
 
-log(anotherUser.propertyIsEnumerable());
-log(user.propertyIsEnumerable());
+// log(anotherUser.propertyIsEnumerable());
+// log(user.propertyIsEnumerable());
 
 // console.log(user.propertyIsEnumerable());
 
