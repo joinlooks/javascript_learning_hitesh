@@ -15,5 +15,5 @@
 // let value = null || 5;
 // let value = 0 || 5;
 // let value = null ?? 5;
-let value = 0 ?? 5;
-console.log(value);
+// let value = 0 ?? 5;
+// console.log(value);
