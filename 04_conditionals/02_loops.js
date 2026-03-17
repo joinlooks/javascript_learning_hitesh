@@ -22,12 +22,12 @@
 //     iterator += 1;
 // }
 
-const arr = [3, 4, 78];
-// arr.forEach((value) => {
-//     console.log(`Value is ${value}`);
-// });
+// const arr = [3, 4, 78];
+// // arr.forEach((value) => {
+// //     console.log(`Value is ${value}`);
+// // });
 
-const superHeroes = ["Batman", "Superman", "Spiderman", "Ironman"];
-superHeroes.forEach((value, index, array) => {
-    console.log(value, index, array);
-});
+// const superHeroes = ["Batman", "Superman", "Spiderman", "Ironman"];
+// superHeroes.forEach((value, index, array) => {
+//     console.log(value, index, array);
+// });
